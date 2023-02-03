@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=uno -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/kashyapc/Documents/PennCIS/ESE_350/lab2-kashyapc -B /Users/kashyapc/Documents/PennCIS/ESE_350/lab2-kashyapc/cmake-build-uno
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/kashyapc/Documents/PennCIS/ESE_350/lab2-kashyapc/cmake-build-uno
